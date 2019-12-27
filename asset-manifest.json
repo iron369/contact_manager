@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/iron369/contact_manager/static/css/main.36497136.chunk.css",
-    "main.js": "/iron369/contact_manager/static/js/main.407db219.chunk.js",
-    "main.js.map": "/iron369/contact_manager/static/js/main.407db219.chunk.js.map",
-    "runtime-main.js": "/iron369/contact_manager/static/js/runtime-main.8d6d1ad7.js",
-    "runtime-main.js.map": "/iron369/contact_manager/static/js/runtime-main.8d6d1ad7.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/iron369/contact_manager/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.d4aae74a.chunk.js": "/iron369/contact_manager/static/js/2.d4aae74a.chunk.js",
-    "static/js/2.d4aae74a.chunk.js.map": "/iron369/contact_manager/static/js/2.d4aae74a.chunk.js.map",
-    "index.html": "/iron369/contact_manager/index.html",
-    "precache-manifest.a4daf9895d7414b143b3b113473527b7.js": "/iron369/contact_manager/precache-manifest.a4daf9895d7414b143b3b113473527b7.js",
-    "service-worker.js": "/iron369/contact_manager/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/iron369/contact_manager/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/iron369/contact_manager/static/css/main.36497136.chunk.css.map",
-    "static/js/2.d4aae74a.chunk.js.LICENSE": "/iron369/contact_manager/static/js/2.d4aae74a.chunk.js.LICENSE"
+    "main.css": "/contact_manager/static/css/main.36497136.chunk.css",
+    "main.js": "/contact_manager/static/js/main.f821b26a.chunk.js",
+    "main.js.map": "/contact_manager/static/js/main.f821b26a.chunk.js.map",
+    "runtime-main.js": "/contact_manager/static/js/runtime-main.f23c72ad.js",
+    "runtime-main.js.map": "/contact_manager/static/js/runtime-main.f23c72ad.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/contact_manager/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d4aae74a.chunk.js": "/contact_manager/static/js/2.d4aae74a.chunk.js",
+    "static/js/2.d4aae74a.chunk.js.map": "/contact_manager/static/js/2.d4aae74a.chunk.js.map",
+    "index.html": "/contact_manager/index.html",
+    "precache-manifest.4515c26c4b81d876144bf7e2518c1980.js": "/contact_manager/precache-manifest.4515c26c4b81d876144bf7e2518c1980.js",
+    "service-worker.js": "/contact_manager/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/contact_manager/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/contact_manager/static/css/main.36497136.chunk.css.map",
+    "static/js/2.d4aae74a.chunk.js.LICENSE": "/contact_manager/static/js/2.d4aae74a.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d6d1ad7.js",
+    "static/js/runtime-main.f23c72ad.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.d4aae74a.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.407db219.chunk.js"
+    "static/js/main.f821b26a.chunk.js"
   ]
 }
