@@ -41,7 +41,6 @@ export class Provider extends Component {
     const res = await axios.get(
       "http://data.bloggervenue.com/contacts/users/index.php"
     );
-    // const res = await axios.get("https://jsonplaceholder.typicode.com/users");
     this.setState({ contacts: res.data });
   }
 
