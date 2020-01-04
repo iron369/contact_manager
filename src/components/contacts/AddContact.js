@@ -49,7 +49,7 @@ class AddContact extends Component {
     };
 
     const res = await axios.post(
-      "https://jsonplaceholder.typicode.com/users/",
+      "http://data.bloggervenue.com/contacts/users/index.php",
       newContact
     );
     dispatch({ type: "ADD_CONTACT", payload: res.data });
